@@ -40,10 +40,10 @@ const music_list = [
         music : 'Mídia/aftdark.3gpp'
     },
     {
-        img : 'Mídia/gangpara.jpg',
+        img : 'Mídia2/gangpara.jpg',
         name : 'G. Paradise',
         artist : 'Coolio',
-        music : 'Mídia/gangpara.3gpp'
+        music : 'Mídia2/gangpara.3gpp'
     }
 ];
 
