@@ -1,2 +1,2 @@
 # Nobugs
-Portifólio 
+Executar (Site.html) pela extensão Live Server.
